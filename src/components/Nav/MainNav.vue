@@ -117,10 +117,12 @@ const { showGithub, showSider, themeAutoCover } = storeToRefs(settings);
 const siteName = import.meta.env.RENDERER_VITE_SITE_TITLE;
 
 // 打开 GitHub
+/*
 const openGithub = () => {
   console.log(packageJson.github);
   window.open(packageJson.github);
 };
+*/
 
 // 主菜单渲染
 const mainMenuShow = ref(false);
