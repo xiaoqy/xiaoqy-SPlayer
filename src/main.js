@@ -56,7 +56,7 @@ console.info(
   "color:#f55e55;font-size:26px;font-weight:bold;",
   "font-size:16px",
 );
-console.info(Powered by xiaoqy);
+console.info('Powered by xiaoqy');
 
 // 挂载
 const app = createApp(App);
