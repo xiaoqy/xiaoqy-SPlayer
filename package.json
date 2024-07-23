@@ -1,12 +1,12 @@
 {
-  "name": "splayer",
+  "name": "CMusic",
   "version": "2.1.0",
   "description": "A minimalist music player",
   "main": "./out/main/index.js",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
-  "repository": "github:imsyy/SPlayer",
+  "author": "xiaoqy",
+  "home": "https://www.xiaoqy.com",
+  "github": "",
+  "repository": "",
   "license": "AGPL-3.0",
   "license-file": "LICENSE",
   "engines": {
