@@ -50,13 +50,13 @@ window.$cleanAll = (tip = true) => {
 
 // 版权声明
 const logoText = import.meta.env.RENDERER_VITE_SITE_TITLE;
-const copyrightNotice = `\n\n作者: xiaoqy (白小七羽)\n作者主页: www.xiaoqy.com`;
+const copyrightNotice = `\n\n作者: Allen Shaw\n作者主页: www.xiaoww.com`;
 console.info(
   `%c${logoText} %c ${copyrightNotice}`,
   "color:#f55e55;font-size:26px;font-weight:bold;",
   "font-size:16px",
 );
-console.info('Powered by xiaoqy');
+console.info('Powered by xiaoww');
 
 // 挂载
 const app = createApp(App);

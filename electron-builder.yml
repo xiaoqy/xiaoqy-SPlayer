@@ -2,7 +2,7 @@
 appId: com.imsyy.splayer
 # 应用程序的产品名称
 productName: CMusic
-copyright: Copyright © xiaoqy 2024
+copyright: © 2024 Allen Shaw. All Rights Reserved.
 # 构建资源所在的目录
 directories:
   buildResources: build
@@ -80,7 +80,7 @@ linux:
     - rpm
     - tar.gz
   # 维护者信息
-  maintainer: www.xiaoqy.com
+  maintainer: www.xiaoww.com
   # 应用程序类别
   category: Audio;Music
 # AppImage 配置
@@ -95,5 +95,5 @@ publish:
   provider: github
   # 自动更新检查的 URL
   # url: https://example.com/auto-updates
-  owner: "xiaoqy"
+  owner: "xiaoww"
   repo: "CMusic"
